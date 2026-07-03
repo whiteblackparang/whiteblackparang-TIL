@@ -1,3 +1,10 @@
+---
+title: "String Basic"
+category: "Python"
+date: 2026-07-03
+tags: ["Python", "String"]
+---
+
 # 문자열 기초 String Basic 
 
 ## 문자열 연결하기 
