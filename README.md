@@ -26,13 +26,18 @@
 | [Algorithm](./Algorithm) | 알고리즘 문제풀이 |
 
 ## 로컬에서 띄우기
+```
 $ npm install
 $ npm run dev
-
+```
+---
 ## 빌드 및 배포
 
 GitHub Actions로 자동화되어 있습니다. `main` 브랜치에 push하면 자동으로 빌드 후 GitHub Pages에 배포됩니다. ([deploy.yml](./.github/workflows/deploy.yml) 참고)
 
 수동으로 빌드만 확인하고 싶다면:
+```
 $ npm run build
 $ npm run preview
+```
+
