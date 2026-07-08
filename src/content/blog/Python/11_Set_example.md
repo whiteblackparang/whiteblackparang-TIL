@@ -1,5 +1,5 @@
 ---
-title: "Tuple Example"
+title: "11_Set_example"
 category: "Python"
 date: 2026-07-06
 tags: ["Python", "Tuple"]

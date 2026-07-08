@@ -1,5 +1,5 @@
 ---
-title: "Set"
+title: "10_Set"
 category: "Python"
 date: 2026-07-06
 tags: ["Python", "Set"]

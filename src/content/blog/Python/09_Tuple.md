@@ -1,5 +1,5 @@
 ---
-title: "Tuple"
+title: "09_Tuple"
 category: "Python"
 date: 2026-07-06
 tags: ["Python", "Tuple"]

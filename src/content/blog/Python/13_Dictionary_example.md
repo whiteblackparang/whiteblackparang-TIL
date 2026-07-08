@@ -1,5 +1,5 @@
 ---
-title: "Dictionary 예제 모음"
+title: "13_Dictionary_example"
 category: "Python"
 date: 2026-07-06
 tags: ["Python", "Dictionary"]

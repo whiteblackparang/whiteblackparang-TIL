@@ -1,5 +1,5 @@
 ---
-title: "Dictionary Basic"
+title: "12_Dictionary_Basic"
 category: "Python"
 date: 2026-07-06
 tags: ["Python", "Dictionary"]
