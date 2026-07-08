@@ -1,12 +1,5 @@
 ---
-title: "List Methods"
-category: "Python"
-date: 2026-07-04
-tags: ["Python", "List"]
----
-
----
-title: "List Methods"
+title: "08_List_Methods"
 category: "Python"
 date: 2026-07-04
 tags: ["Python", "List"]

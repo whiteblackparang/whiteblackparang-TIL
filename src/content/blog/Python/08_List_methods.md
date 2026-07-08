@@ -5,13 +5,6 @@ date: 2026-07-04
 tags: ["Python", "List"]
 ---
 
----
-title: "List Methods"
-category: "Python"
-date: 2026-07-04
-tags: ["Python", "List"]
----
-
 # 리스트 메서드 (List Methods)
 
 ## 리스트 메서드란?
