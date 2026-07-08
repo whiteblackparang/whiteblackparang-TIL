@@ -1,5 +1,5 @@
 ---
-title: "String Basic"
+title: "04_String_Basic"
 category: "Python"
 date: 2026-07-03
 tags: ["Python", "String"]

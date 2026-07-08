@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "01_HelloWorld"
 category: "Python"
 date: 2026-07-03
 tags: ["Python", "변수"]

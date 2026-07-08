@@ -1,5 +1,5 @@
 ---
-title: "Variable and DataType"
+title: "02_Variable-and_DataType"
 category: "Python"
 date: 2026-07-03
 tags: ["Python", "DataType"]

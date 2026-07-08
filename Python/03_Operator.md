@@ -1,5 +1,5 @@
 ---
-title: "Operators"
+title: "03_Operators"
 category: "Python"
 date: 2026-07-03
 tags: ["Python", "Operators"]

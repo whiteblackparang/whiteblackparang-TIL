@@ -1,5 +1,5 @@
 ---
-title: "String Methods"
+title: "06_String_Methods"
 category: "Python"
 date: 2026-07-04
 tags: ["Python", "String"]
