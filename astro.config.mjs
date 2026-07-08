@@ -7,7 +7,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://whiteblackparang.github.io',
-	base: '/whiteblack-TIL',
+	base: '/whiteblack-TIL/',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
