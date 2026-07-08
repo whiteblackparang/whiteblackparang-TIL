@@ -22,8 +22,8 @@ const allPosts = await getCollection('blog');
 
 const postsByCategory = categories.map((cat) => {
 	const posts = allPosts
-		.filter((post) => post.data.category === cat)
-		.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+	.filter((post) => post.data.category === cat)
+	.sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
 	return { name: cat, posts };
 });
 ---
