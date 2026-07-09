@@ -1,4 +1,5 @@
 ---
+import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Sidebar from '../components/Sidebar.astro';
@@ -8,11 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 <!doctype html>
 <html lang="ko">
 	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{SITE_TITLE}</title>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
@@ -47,9 +44,9 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 				<h2>2026 활동</h2>
 				<ul>
-					<li>새로운 기록을 더해 갑니다. TIL도 작성하지만 velog와 네이버 블로그에 배운 내용과 새로운 내용을 담습니다. </li>
-					<li>회사에 대한 정보 및 채용공고를 수집해 지원하고 있습니다. 데이터 분석가, 데이터 사이언티스트, AI 엔지니어 등 </li>
-					<li>프로그래머스를 포함해서 Leetcode, HackerRank 등의 코딩테스트 사이트를 통해 연습합니다 </li>
+					<li>새로운 기록을 더해 갑니다. TIL도 작성하지만 velog와 네이버 블로그에 배운 내용과 새로운 내용을 담습니다.</li>
+					<li>회사에 대한 정보 및 채용공고를 수집해 지원하고 있습니다. 데이터 분석가, 데이터 사이언티스트, AI 엔지니어 등</li>
+					<li>프로그래머스를 포함해서 Leetcode, HackerRank 등의 코딩테스트 사이트를 통해 연습합니다</li>
 				</ul>
 			</div>
 		</main>
@@ -58,6 +55,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<style>
 			.layout {
 				display: flex;
+				align-items: flex-start;
 				width: 100%;
 				max-width: 1400px;
 				margin: 0 auto;
@@ -85,7 +83,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			.hero-bar {
 				width: 100px;
 				height: 6px;
-				background: rgb(var(--accent));
+				background: var(--accent);
 				border-radius: 3px;
 			}
 			h2 {
