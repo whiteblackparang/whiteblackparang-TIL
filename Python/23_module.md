@@ -1,7 +1,7 @@
 ---
 title: "23_module and import"
 category: "Python"
-date: 2026-07-10
+date: 2026-07-11
 tags: ["Python", "Function"]
 ---
 # 모듈과 import
