@@ -1,5 +1,5 @@
 ---
-title: "260709 [오라클 SQL] 기초 : 문자열 함수"
+title: "260721 [오라클 SQL] 기초 : 문자열 함수"
 category: "SQL"
 dialect: "Oracle"
 date: 2026-07-21
