@@ -1,7 +1,7 @@
 ---
 title: "08. [R] 기초 : order() 함수를 이용한 데이터 프레임 정렬"
 category: "R"
-date: "2026-07-21"
+date: 2026-07-21
 tags: ["R", "DataFrame", "order", "sort", "정렬"]
 ---
 
