@@ -1,7 +1,7 @@
 ---
 title: "13. [R] Merge: 완전(Full) & 부분(Partial) 대응"
 category: "R"
-date: "2026-07-23"
+date: 2026-07-23
 tags: ["R", "Data Frame", "Merge"]
 ---
 

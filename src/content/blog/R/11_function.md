@@ -1,7 +1,7 @@
 ---
 title: "11. [R] : 함수(Function) 만들기와 활용"
 category: "R"
-date: "2026-07-22"
+date: 2026-07-22
 tags: ["R", "Function", "Programming", "R Basics"]
 ---
 

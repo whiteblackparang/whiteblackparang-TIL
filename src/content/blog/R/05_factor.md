@@ -1,7 +1,7 @@
 ---
 title: "05. Factor : 범주형 변수와 연속형 변수"
 category: "R"
-date: "2026-07-21"
+date: 2026-07-21
 tags: ["R", "Factor", "Categorical", "Continuous", "Data Type"]
 ---
 

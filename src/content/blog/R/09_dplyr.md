@@ -1,7 +1,7 @@
 ---
 title: "09. [R] : dplyr 기초 - 데이터 전처리와 핵심 함수"
 category: "R"
-date: "2026-07-22"
+date: 2026-07-22
 tags: ["R", "dplyr", "Data Preparation", "Data Cleaning"]
 ---
 
